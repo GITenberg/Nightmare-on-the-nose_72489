@@ -1,0 +1,33 @@
+_repo: Nightmare-on-the-nose_72489
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Evelyn E.
+    birthdate: 1922
+    deathdate: 2000
+    gutenberg_agent_id: '25680'
+    url: http://www.gutenberg.org/2009/agents/25680
+    wikipedia: https://en.wikipedia.org/wiki/Evelyn_E._Smith
+description: ''
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72489'
+language: en
+pgterms:marc905: 20231215130846smith
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Horse racing -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Nightmare on the nose
+url: http://www.gutenberg.org/ebooks/72489
